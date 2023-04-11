@@ -51,11 +51,9 @@ Based on the dashboard, the following are the findings:
 - "TSX today", where TSX stands for Toronto Stock Exchange, which is a stock, is the most searched term in 2022 
 - "Adobo", a popular Filipino dish, is the fastest rising searched term in 2022
 
-This means that:
-- start up e-commerence should either centre their business to either finance categorey such as stocks or on food to increase their sales and profit
-- content creator can generate idea based on finance or dish to attact more target audience and therefore, increase their income.
+This means that content creator can generate idea based on finance or dish to attact more target audience and therefore, increase their income.
 
 
 # Future Directions
 
-To further improve the results, a recommender system based on machine learning model (Supervised, UnSupervised and deep learning) can be impletmented but it will be under the future project.
+To further improve the results, a recommender system based on machine learning model (Supervised, UnSupervised and deep learning) can be impletmented but it will be another forthcoming project.
