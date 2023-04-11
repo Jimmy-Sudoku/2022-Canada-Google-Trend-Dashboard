@@ -1,6 +1,6 @@
 # Introduction
 
-There has been a rise in e-commerce and content creator all around the world. Content creator, sometime known as influencers, is where one generate money through the use of content to communicate with their target audience<a href="https://www.adobe.com/express/learn/blog/content-creator#:~:text=A%20content%20creator%20is%20someone,earn%20revenue%20through%20your%20efforts." target="_blank"><sup>1</sup></a>. 
+There has been a rise in content creator all around the world. Content creator, sometime known as influencers, is where one generate money through the use of content to communicate with their target audience<a href="https://www.adobe.com/express/learn/blog/content-creator#:~:text=A%20content%20creator%20is%20someone,earn%20revenue%20through%20your%20efforts." target="_blank"><sup>1</sup></a>. 
 <br><br>
 For content creator, they usually need to find ideas to generate content for the right target audience to earn a living, many of them faces creator's block where they are unable to generate creative content/ideas <a href="https://www.freepik.com/blog/improve-creativity-beat-creators-block/#:~:text=Just%20like%20writer's%20block%2C%20creator's,the%20patience%20for%20creator's%20block." target="_blank"><sup>2<sup></a>.
 For that, they usually look for the trending topics or things that are currently in the trend. Google Trend can be one of the ways to generate ideas for content creators. 
