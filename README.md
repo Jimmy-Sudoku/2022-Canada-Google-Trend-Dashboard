@@ -58,7 +58,7 @@ Based on the dashboard, the following are the findings:
 - "Premier League" or "EPL", which is a english football league system  <a href="https://en.wikipedia.org/wiki/Premier_League." target="_blank"><sup>6<sup></a>, is the most searched term in April 2023 
 - "Blue Jays vs Angels", which is a MBL (Major League Baseball) team match <a href="https://www.espn.com.sg/mlb/game/_/gameId/401471127" target="_blank"><sup>7<sup></a>, is the fastest rising searched term in April 2023
 
-This means that content creator can generate idea based on finance or dish to attact more target audience and therefore, increase their income.
+This means that content creator can generate idea based on EPL or MBL to attact more target audience and therefore, increase their income.
 
 
 # Future Directions
