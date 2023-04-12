@@ -43,20 +43,20 @@ The Google Trends datasets are taken from Big Query. Big Query is a data warehou
 
 Check out the <a href="https://public.tableau.com/app/profile/jimmy5898/viz/GoggleTrendsinCanadaApril2023/storytelling">dashboard</a> that was done using Tableau!
 <br>
-I have also link a photo of a sample of the google trend from googe for comparsion! 
+I have also link a photo of a sample of the google trend from googe for comparsion!
 
 
 # Limitation
 
 Big Query google trend's dataset only stores the top current 25 terms based on the refreshed date. Meaning, any terms that is less than 25 is not analysed and any terms that is previously in the top 25 terms but not in the current terms are not included in the analysis. In other words, I am only able to analyse the current top 25 terms and the timeline of the current 25 terms.
-As there was a change in google's data collection system in 2022, the data before 2022 might be not. Therefore, more studies and data are required. Previous years were not taken in to consideration as comsumer behavior have changed after covid <a href="https://www.mckinsey.com/industries/paper-forest-products-and-packaging/our-insights/beyond-covid-19-the-new-consumer-behavior-is-sticking-in-the-tissue-industry." target="_blank"><sup>6<sup></a>. Therefore, results based on previous years are not used and the dataset only consist of datas after 1st Jan 2022.
+As there was a change in google's data collection system in 2022, the data before 2022 might be not. Therefore, more studies and data are required. Previous years were not taken in to consideration as comsumer behavior have changed after covid <a href="https://www.mckinsey.com/industries/paper-forest-products-and-packaging/our-insights/beyond-covid-19-the-new-consumer-behavior-is-sticking-in-the-tissue-industry." target="_blank"><sup>5<sup></a>. Therefore, results based on previous years are not used and the dataset only consist of datas after 1st Jan 2022.
 
 
 # Conclusion & Recommendation
 
 Based on the dashboard, the following are the findings:
-- "Premier League" or "EPL", which is a english football league system  <a href="https://en.wikipedia.org/wiki/Premier_League." target="_blank"><sup>7<sup></a>, is the most searched term in April 2023 
-- "Blue Jays vs Angels", which is a MBL (Major League Baseball) team match <a href="https://www.espn.com.sg/mlb/game/_/gameId/401471127" target="_blank"><sup>8<sup></a>, is the fastest rising searched term in April 2023
+- "Premier League" or "EPL", which is a english football league system  <a href="https://en.wikipedia.org/wiki/Premier_League." target="_blank"><sup>6<sup></a>, is the most searched term in April 2023 
+- "Blue Jays vs Angels", which is a MBL (Major League Baseball) team match <a href="https://www.espn.com.sg/mlb/game/_/gameId/401471127" target="_blank"><sup>7<sup></a>, is the fastest rising searched term in April 2023
 
 This means that content creator can generate idea based on finance or dish to attact more target audience and therefore, increase their income.
 
