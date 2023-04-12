@@ -43,7 +43,7 @@ The Google Trends datasets are taken from Big Query. Big Query is a data warehou
 
 Check out the <a href="https://public.tableau.com/app/profile/jimmy5898/viz/GoggleTrendsinCanadaApril2023/storytelling">dashboard</a> that was done using Tableau!
 <br>
-I have also link a photo of a sample of the google trend from google itself! 
+I have also link a photo of a sample of the google trend from googe for comparsion! 
 
 
 # Limitation
