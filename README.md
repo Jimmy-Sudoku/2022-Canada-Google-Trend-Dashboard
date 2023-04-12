@@ -19,20 +19,23 @@ With these data, the content creators facing creator's block, they can use the r
 
 # Data Source, Data Cleaning & EDA
 
-The Google Trends datasets are taken from Big Query. Big Query is a data warehouse cloud platform developed by Google itself. It is free for public to use and SQL is used to clean and query the required data. The data is then saved as csv file for analysis. As I am using the free version of Big Query, there is a limit to much I can use SQL for cleaning, data wrangling analysis and visualisation. Therefore, I used both Excel's power query & power pivot and tableau for additional cleaning, data wrangling analysis and visualisation.
+The Google Trends datasets are taken from Big Query. Big Query is a data warehouse cloud platform developed by Google itself  <a href="https://cloud.google.com/bigquery." target="_blank"><sup>4<sup></a> . It is free for public to use and SQL is used to clean and query the required data. The data is then saved as csv file for analysis. As I am using the free version of Big Query, there is a limit to much I can use SQL for cleaning, data wrangling analysis and visualisation. Therefore, I used both Excel's power query & power pivot and tableau for additional cleaning, data wrangling analysis and visualisation.
 
 # Data Dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
+|**country_name**|object|Big Query|Country of the dataset.| 
 |**region_name**|object|Big Query|Region in Canada.| 
-|**month**|int64|Big Query|Month of 2022.| 
-|**rank**|int64|Big Query|The rank of the top terms and it is updated everyday.| 
+|**refresh_date**|int64|Big Query|The date of when the data is refreshed. Meaning it is where the new set of terms, country, region and combination of scores are added.| 
+|**week**|int64|Big Query|The first day of the week. It is used as a time series for the analysis.| 
+|**rank**|int64|Big Query|The rank of the top terms.| 
 |**percent_gain**|int64|Big Query|Percentage gain (rate) at which term rose compared to previous date period.| 
 |**term**|object|Big Query|The human readable identifier for a term, i.e. 'Acme Inc'.| 
 |**score**|int64|Big Query|Presents the maximum search interest of the term for the time and location selected. The index of the value 100 will imply that in the specified time range, a specific term was trending mostly where the peek is, i.e. where the score was highest.| 
 |**category**|object|Excel|Category of the term.| 
- 
+|**latitude**|int64|Excel|The latitude of the region.|
+|**longitude**|int64|Excel|The longitude of the region.|
 
 
 # Dashboard
