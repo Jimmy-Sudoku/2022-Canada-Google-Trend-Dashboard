@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/8e/24/03/8e24031175b855889b54bce691617263.png" width = "100" height="75"> Google Trend in Canada (April 2023)
+# <img src="https://i.pinimg.com/originals/8e/24/03/8e24031175b855889b54bce691617263.png" width = "100" height="75"> Google Trends in Canada (April 2023)
 
 # Introduction
 
