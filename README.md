@@ -1,4 +1,4 @@
-# Introduction
+# <img src="https://i.pinimg.com/originals/8e/24/03/8e24031175b855889b54bce691617263.png" width = "100" height="75"> Introduction
 
 There has been a rise in content creator all around the world, espicially in Canada<a href="https://canadianbusiness.com/sponsored-canadas-creator-economy-youtube/" target="_blank"><sup>1</sup></a>. Content creator, sometime known as influencers, is where one generate money through the use of content to communicate with their target audience<a href="https://www.adobe.com/express/learn/blog/content-creator#:~:text=A%20content%20creator%20is%20someone,earn%20revenue%20through%20your%20efforts." target="_blank"><sup>2</sup></a>. 
 <br><br>
